@@ -5461,6 +5461,7 @@ name = "thessa-maneuver"
 version = "0.0.1"
 dependencies = [
  "glam",
+ "rayon",
  "serde",
  "thessa-sim-core",
  "toml",
